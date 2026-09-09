@@ -5,7 +5,7 @@ public class main{
         Mahasiswa mhs1 = new Mahasiswa ("Daplun", "H1D025059");
         mhs1.cetakInformasi();
         Mahasiswa mhs2=new Mahasiswa(" Najmi", "H1D02505999", "Purwokerto");
-
+        mhs2.cetakInformasi();
         System.out.println(mhs2.getNama());
     }
-}
+}l
