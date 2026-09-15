@@ -8,4 +8,4 @@ public class main{
         mhs2.cetakInformasi();
         System.out.println(mhs2.getNama());
     }
-}l
+}
