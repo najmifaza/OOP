@@ -4,7 +4,7 @@ public class Sepeda {
     public int pedal;
     public int gear;
     public int kecepatan;
-    public int standar;
+    private int standar;
 
     public Sepeda () {}
     public Sepeda (int pedal, int gear, int kecepatan){
